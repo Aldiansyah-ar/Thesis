@@ -1,6 +1,7 @@
 ipympl
 ipython
-numpy
-pandas
 matplotlib
 moviepy
+numpy
+pandas
+seaborn
