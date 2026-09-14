@@ -3,5 +3,4 @@ ipython
 matplotlib
 moviepy
 numpy
-pandas
 seaborn
