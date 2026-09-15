@@ -24,7 +24,7 @@ python -m venv venv_name
 ```
 Activate the environment
 ```bash
-venv_name\scripts\activate.bat
+venv_name/scripts/activate.bat
 ```
 Install library in `requirements.txt`
 ```bash
