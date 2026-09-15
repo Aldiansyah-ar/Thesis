@@ -26,7 +26,7 @@ Activate the environment
 ```bash
 venv_name\scripts\activate.bat
 ```
-Install the library in `requirements.txt`
+Install library in `requirements.txt`
 ```bash
 pip install -r requirements.txt
 ```
