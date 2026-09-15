@@ -10,12 +10,12 @@
 
 ## Setup
 Clone the repository
-```bash
-git clone https://github.com/Aldiansyah-ar/Thesis
+```bashhttps://github.com/Aldiansyah-ar/VorticityFlowSimulation/blob/main/README.md
+git clone https://github.com/Aldiansyah-ar/VorticityFlowSimulation
 ```
 Direct to the project directory
 ```bash
-cd Thesis
+cd VorticityFlowSimulation
 ```
 Create the `Python Environment`
 
